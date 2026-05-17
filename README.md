@@ -37,7 +37,10 @@ FILES USED :
 
 OUTPUTS : 
 
-
+<img width="1903" height="865" alt="Image" src="https://github.com/user-attachments/assets/fc1cad6a-5f13-4878-a3fa-a234bd3988b8" />
+<img width="1912" height="986" alt="Image" src="https://github.com/user-attachments/assets/f2c467d5-a0af-42c3-91af-f1060fa5815d" />
+<img width="1916" height="945" alt="Image" src="https://github.com/user-attachments/assets/12b2f52c-2261-4175-bbe6-984202be0c80" />
+<img width="1912" height="931" alt="Image" src="https://github.com/user-attachments/assets/15032609-04b4-4c6d-8c54-a04735f131f6" />
 
 ### Project Status
 
