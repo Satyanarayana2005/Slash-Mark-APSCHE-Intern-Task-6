@@ -1,7 +1,7 @@
 # Slash-Mark-APSCHE-Intern-Task-6
 Here’s a clean GitHub post/README description for your APSHE Task 6:
 
-## APSHE Python Internship – Task 6 Completed
+## APSCHE Python Internship – Task 6 Completed
 
 **Project Title:** License Plate Recognition System
 
